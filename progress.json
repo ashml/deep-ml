@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:54:46.170Z",
+  "generated_at": "2026-10-14T21:54:48.035Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -182,6 +182,32 @@
       "last_pushed_at": "2026-04-03T23:54:36.672Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-04-04T00:06:58.070Z",
+      "last_pushed_at": "2026-04-04T00:06:58.070Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-04-04T00:53:03.694Z",
+      "last_pushed_at": "2026-04-04T00:53:03.694Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
