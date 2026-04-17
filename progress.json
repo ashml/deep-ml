@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:54:51.654Z",
+  "generated_at": "2026-10-14T21:54:53.382Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -232,6 +232,19 @@
       "path": "problems/0016-feature-scaling-implementation",
       "first_solved_at": "2026-04-16T06:34:30.337Z",
       "last_pushed_at": "2026-04-16T06:34:30.337Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-04-17T07:12:00.807Z",
+      "last_pushed_at": "2026-04-17T07:12:00.807Z",
       "language": "python",
       "lines": 11
     }
