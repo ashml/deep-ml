@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:54:53.382Z",
+  "generated_at": "2026-10-14T21:54:55.477Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -245,6 +245,19 @@
       "path": "problems/0030-batch-iterator-for-dataset",
       "first_solved_at": "2026-04-17T07:12:00.807Z",
       "last_pushed_at": "2026-04-17T07:12:00.807Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-04-19T09:31:44.338Z",
+      "last_pushed_at": "2026-04-19T09:31:44.338Z",
       "language": "python",
       "lines": 11
     }
