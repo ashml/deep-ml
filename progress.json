@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:54:55.477Z",
+  "generated_at": "2026-10-14T21:54:57.679Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -260,6 +260,45 @@
       "last_pushed_at": "2026-04-19T09:31:44.338Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-05-18T07:47:44.444Z",
+      "last_pushed_at": "2026-05-18T07:47:44.444Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-05-18T08:13:24.459Z",
+      "last_pushed_at": "2026-05-18T08:13:24.459Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:955": {
+      "kind": "problem",
+      "id": "955",
+      "title": "Simple Self-Attention Without Trainable Weights",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/955",
+      "path": "problems/0955-simple-self-attention-without-trainable-weights",
+      "first_solved_at": "2026-05-18T11:25:02.618Z",
+      "last_pushed_at": "2026-05-18T11:25:02.618Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
