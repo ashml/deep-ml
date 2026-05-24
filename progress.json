@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:55:01.343Z",
+  "generated_at": "2026-10-14T21:55:03.152Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -323,6 +323,19 @@
       "path": "problems/1072-pairwise-cosine-similarity-matrix",
       "first_solved_at": "2026-05-22T08:02:42.290Z",
       "last_pushed_at": "2026-05-22T08:02:42.290Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-05-24T14:29:06.871Z",
+      "last_pushed_at": "2026-05-24T14:29:06.871Z",
       "language": "python",
       "lines": 6
     }
