@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:55:10.369Z",
+  "generated_at": "2026-10-14T21:55:12.393Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -390,6 +390,32 @@
       "last_pushed_at": "2026-05-28T16:04:23.216Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2026-05-29T10:05:24.657Z",
+      "last_pushed_at": "2026-05-29T10:05:24.657Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:141": {
+      "kind": "problem",
+      "id": "141",
+      "title": "Shift and Scale Array to Target Range",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/141",
+      "path": "problems/0141-shift-and-scale-array-to-target-range",
+      "first_solved_at": "2026-05-29T10:15:07.870Z",
+      "last_pushed_at": "2026-05-29T10:15:07.870Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
