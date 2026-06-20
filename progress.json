@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:01:50.345Z",
+  "generated_at": "2026-10-14T22:01:52.373Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -494,6 +494,19 @@
       "last_pushed_at": "2026-06-17T17:02:49.066Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:216": {
+      "kind": "problem",
+      "id": "216",
+      "title": "Thanksgiving Feast Predictor: Softmax for Dish Selection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/216",
+      "path": "problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection",
+      "first_solved_at": "2026-06-20T15:07:41.427Z",
+      "last_pushed_at": "2026-06-20T15:07:41.427Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
