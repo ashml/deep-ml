@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 44 problems · 0 labs · 0 math
+**46** solved · 46 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-03-18 | [solution](problems/0003-reshape-matrix) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-06-01 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-03-18 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-07-27 | [solution](problems/1101-select-all-rows) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-05-29 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-06-03 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-05-18 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
@@ -56,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-04-19 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-07-09 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-03-14 | [solution](problems/0101-implement-the-grpo-objective-function) |
+| [Top Users by Longest Consecutive Visit Streak](https://www.deep-ml.com/problems/1184) | hard | 2026-07-27 | [solution](problems/1184-top-users-by-longest-consecutive-visit-streak) |
 
 ---
 

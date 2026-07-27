@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:02:02.248Z",
+  "generated_at": "2026-10-14T22:02:04.139Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -572,6 +572,32 @@
       "last_pushed_at": "2026-07-09T07:37:27.132Z",
       "language": "sql",
       "lines": 5
+    },
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-07-27T16:22:36.693Z",
+      "last_pushed_at": "2026-07-27T16:22:36.693Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1184": {
+      "kind": "problem",
+      "id": "1184",
+      "title": "Top Users by Longest Consecutive Visit Streak",
+      "difficulty": "hard",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1184",
+      "path": "problems/1184-top-users-by-longest-consecutive-visit-streak",
+      "first_solved_at": "2026-07-27T16:24:49.665Z",
+      "last_pushed_at": "2026-07-27T16:24:49.665Z",
+      "language": "sql",
+      "lines": 16
     }
   }
 }
