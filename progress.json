@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:02:06.054Z",
+  "generated_at": "2026-10-14T22:02:08.147Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -611,6 +611,19 @@
       "last_pushed_at": "2026-08-02T20:49:32.530Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-06T10:03:21.954Z",
+      "last_pushed_at": "2026-09-06T10:03:21.954Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
