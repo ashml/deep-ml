@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**48** solved · 48 problems · 0 labs · 0 math
+**49** solved · 49 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-08-02 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-03-18 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-06-11 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
+| [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-09-07 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-03-14 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-04-16 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-03-14 | [solution](problems/0308-gradient-direction-and-magnitude) |
