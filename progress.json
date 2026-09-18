@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:02:15.694Z",
+  "generated_at": "2026-10-14T22:02:17.741Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -702,6 +702,58 @@
       "last_pushed_at": "2026-09-12T13:59:55.235Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2026-09-18T12:59:48.870Z",
+      "last_pushed_at": "2026-09-18T12:59:48.870Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2026-09-18T13:16:12.837Z",
+      "last_pushed_at": "2026-09-18T13:16:12.837Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-09-18T13:54:40.840Z",
+      "last_pushed_at": "2026-09-18T13:54:40.840Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-09-18T15:36:28.681Z",
+      "last_pushed_at": "2026-09-18T15:36:28.681Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
