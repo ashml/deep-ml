@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:02:22.056Z",
+  "generated_at": "2026-10-14T22:02:23.938Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -780,6 +780,58 @@
       "last_pushed_at": "2026-09-27T20:11:04.541Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:103": {
+      "kind": "problem",
+      "id": "103",
+      "title": "Implement the SELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/103",
+      "path": "problems/0103-implement-the-selu-activation-function",
+      "first_solved_at": "2026-09-29T21:24:28.124Z",
+      "last_pushed_at": "2026-09-29T21:24:28.124Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:95": {
+      "kind": "problem",
+      "id": "95",
+      "title": "Calculate the Phi Coefficient",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/95",
+      "path": "problems/0095-calculate-the-phi-coefficient",
+      "first_solved_at": "2026-09-29T21:28:33.876Z",
+      "last_pushed_at": "2026-09-29T21:28:33.876Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2026-09-29T21:30:08.790Z",
+      "last_pushed_at": "2026-09-29T21:30:08.790Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:1367": {
+      "kind": "problem",
+      "id": "1367",
+      "title": "Poisson Deviance and Overdispersion",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1367",
+      "path": "problems/1367-poisson-deviance-and-overdispersion",
+      "first_solved_at": "2026-09-29T21:38:43.130Z",
+      "last_pushed_at": "2026-09-29T21:38:43.130Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
