@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**73** solved · 73 problems · 0 labs · 0 math
+**74** solved · 73 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -85,6 +85,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-07-09 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-03-14 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Top Users by Longest Consecutive Visit Streak](https://www.deep-ml.com/problems/1184) | hard | 2026-07-27 | [solution](problems/1184-top-users-by-longest-consecutive-visit-streak) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-15 | [solution](math/0007-vector-operations) |
 
 ---
 
