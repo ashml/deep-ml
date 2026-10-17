@@ -14,11 +14,10 @@ def linear_regression_gradient_descent(X: np.ndarray, y: np.ndarray, alpha: floa
         Learned weights as a 1D array of shape (n,)
     """
     m, n = X.shape
-    y = y.reshape(-1, 1)
-    theta = np.zeros((n, 1))
+    w = np.zeros(n)
     for _ in range(iterations):
-        predictions = X @ theta
-        errors = predictions - y
-        gradient = (1 / m) * (X.T @ errors)
-        theta = theta - alpha * gradient
-    return theta.flatten()
+        y_pred = X @ w
+        error = y_pred - y
+        gradient = X.T @ error / m
+        w -= alpha * gradient
+    return w
